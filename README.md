@@ -1,6 +1,6 @@
 # Terra Mortuum
 
-Terra Mortuum  (Latin for  Land of Dead ) is a single player first-person shooter for Android mobile devices that uses the Unity game engine to immerse the player into a post-apocalyptic world to face hordes of zombies in order to survive.
+Terra Mortuum  (Latin for  Land of Dead) is a single player first-person shooter for Android mobile devices that uses the Unity game engine to immerse the player into a post-apocalyptic world to face hordes of zombies in order to survive.
 
 ## Overview
 
