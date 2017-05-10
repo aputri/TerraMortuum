@@ -11,5 +11,7 @@ The player is surrounded in a barren wasteland. Their only option is to fight th
 ## Download
 
 Available on Google Play: https://play.google.com/store/apps/details?id=com.NakedStudios.TerraMortuum&hl=en
+
 Trailer: https://www.youtube.com/watch?v=uHJ3NqZHpjA
+
 Video Demo: https://www.youtube.com/watch?v=j_u2cNLYRdY&t=45s
